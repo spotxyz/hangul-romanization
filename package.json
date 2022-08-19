@@ -1,6 +1,6 @@
 {
   "name": "@spotxyz/hangul-romanization",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Romanizes Hangul (Korean) characters",
   "keywords": [
     "korean",
@@ -11,6 +11,7 @@
   "license": "MIT",
   "author": "Tyriar",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist/"
   ],
